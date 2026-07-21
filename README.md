@@ -38,6 +38,12 @@ Side-scrolling shooter: Force-style pod, charge beam, Big Core boss. First chapt
 <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/title.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/gameplay.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/boss.png" width="160">
 </p>
 
+### [R-Type Neo — Chapter 2: Bydo Incursion](https://github.com/underscore42/ngpc-r-type-ch2-bydo-incusion)
+The next chapter in the **Pocket Trilogy** (more weapons).
+<p>
+<img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/title.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/gameplay.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/gameplay2.png" width="160">
+</p>
+
 ### [Zork I](https://github.com/underscore42/ngpc-zork-one) ⭐1
 The text-adventure classic, parser and all, on a handheld. This was the second stupidest idea I came up with.
 <p>
