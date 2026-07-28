@@ -63,7 +63,7 @@ I couldn't get Branden Fraser to cameo, sorry.
 </p>
 
 ### [Frogger Neo or Arcade or Coleco VFD](https://github.com/underscore42/ngpc-frogger-neo)
-Okay, it's FROGGER, just I couldn't make a decision. There are three ROMs in the release folder. Your choice, Classic Arcade, NGPC layout and Coleco VFD inspired Atomic play. 
+Okay, it's FROGGER, just I couldn't make a decision. There are three ROMs in the release folder. Your choice, Classic Arcade, NGPC layout and Coleco VFD inspired Atomic play. Yes, it's the Multi-verse of Frogger.
 <p><img src="https://raw.githubusercontent.com/underscore42/ngpc-frogger-neo/main/screenshots/title.png" width="160"> 
 <img src="https://raw.githubusercontent.com/underscore42/ngpc-frogger-neo/main/screenshots/frogger-neo.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-frogger-neo/main/screenshots/frogger-arcade.png" width="160"> <img src="https://raw.githubusercontent.com/underscore42/ngpc-frogger-neo/main/screenshots/frogger-vfd.png" width="160">
 </p>
