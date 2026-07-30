@@ -175,4 +175,6 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 
 ---
 
-<sub>All titles are non-commercial fan homages, built for the love of the hardware. Names are deliberately branded to avoid trademark conflicts.</sub>
+<sub>All titles are non-commercial fan homages, built as a what could have been.</sub>
+
+<p align="center"><sub>🍟 No tip jar — but if one gave you more fun than a Happy Meal would've, maybe send a bit where it might actually do some good: 🍟 <a href="https://www.psp.org/ways-to-give">CurePSP</a> · <a href="https://victoriahospice.org/donate">Victoria Hospice</a> · <a href="https://www.hospicesouthland.org.nz/about-us/donation/">Hospice Southland</a>.</sub></p>
