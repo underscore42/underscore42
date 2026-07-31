@@ -69,6 +69,19 @@ Okay, it's FROGGER, just I couldn't make a decision. There are three ROMs in the
 </tr>
 </table>
 
+### [BLUE PRINT](https://github.com/underscore42/ngpc-blueprint)
+I grew up in a pool hall, which didn't have a lot of games to choose from, I use to play BLUE PRINT all the time.
+<table>
+<tr>
+<td><img src="https://github.com/underscore42/ngpc-blueprint/blob/main/screenshots/blueprint-0000.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-blueprint/main/screenshots/blueprint-0001.png" width="150"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-blueprint/main/screenshots/blueprint-0002.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-blueprint/main/screenshots/blueprint-0003.png" width="150"></td>
+</tr>
+</table>
+
 ### [Tutankham](https://github.com/underscore42/ngpc-tutankham) ⭐2
 I couldn't get Brendan Fraser to cameo, sorry.
 <table>
