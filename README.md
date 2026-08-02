@@ -184,4 +184,6 @@ I can now focus on the art for something that will be coming out in the next cou
 
 <sub>All titles are non-commercial fan homages, built as a what could have been.</sub>
 
-<p align="center"><sub>🍟 No tip jar — but if one gave you more fun than a Happy Meal would've, maybe send a bit where it might actually do some good: 🍟 <a href="https://www.psp.org/ways-to-give">CurePSP</a> · <a href="https://victoriahospice.org/donate">Victoria Hospice</a> · <a href="https://www.hospicesouthland.org.nz/about-us/donation/">Hospice Southland</a>.</sub></p>
+<p align="center"><sub>🍔🍟🥤🧸 No tip jar — but if one gave you more fun than a Happy Meal would've, maybe send a bit where it might actually do some good:</sub></p>
+
+<p align="center"><sub><a href="https://www.psp.org/ways-to-give">CurePSP</a> · <a href="https://victoriahospice.org/donate">Victoria Hospice</a> · <a href="https://www.hospicesouthland.org.nz/about-us/donation/">Hospice Southland</a></sub></p>
