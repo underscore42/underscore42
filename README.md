@@ -174,7 +174,11 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/bwanim.gif" alt="R-Type Neo — Pocket Trilogy title screen" width="160">
 </p>
 
-**Last Resort Neo** and **R-Type: Pocket Trilogy — the complete saga.** Which is all three chapters, plus the **Epilogue: Final Strike**. Both just dropped, I'll clean up the catalogue page next week, this way I can focus on the art for something that will be coming out in the next month... lots of physics in that one, which is done, just actual art and well, original IP and nothing like the ones I've been playing with. Clearing my brain for a bit.
+**Last Resort Neo** and **R-Type: Pocket Trilogy — the complete saga.** Which is all three chapters, plus the **Epilogue: Final Strike**. Both just dropped. <br><br>
+I can now focus on the art for something that will be coming out in the next couple of months... 
+**La Catrina** ... lots of physics in that one, which in theory works done, just actual art and well, original IP and nothing like the ones I've been playing with. Clearing my brain for a bit.
+<br><br>**Sidewinder** also in the pipe, also original IP. A classic but fun take on the shooters of the early 80s.
+<br><br>**Pengu** ... yeah... my take on that... plus any randoms.
 
 ---
 
