@@ -132,6 +132,7 @@ Side-scrolling shooter: engage ground and air units. Multiple weapon types, puls
 <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-last-resort/main/screenshots/lastresort-0000.png" width="150"></td>
 </tr>
 </table>
+
 ---
 
 ## Puzzle
