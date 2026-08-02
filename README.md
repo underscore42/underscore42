@@ -103,45 +103,35 @@ I couldn't get Brendan Fraser to cameo, sorry.
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/anim.gif" alt="R-Type Neo gameplay" width="160">
 </p>
 
-### [R-Type Neo — Chapter 1: Star Rise](https://github.com/underscore42/ngpc-r-type-ch1-star-rise) ⭐1
-Side-scrolling shooter: Force-style pod, charge beam, Big Core boss. First chapter of the **Pocket Trilogy**.
+### [R-Type - Pocket Trilogy](https://github.com/underscore42/ngpc-rtype-trilogy) ⭐1
+Side-scrolling shooter. The completed **Pocket Trilogy**. Includes all three chapters and the Epilogue, 35 zones total. 
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/title.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/gameplay.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-rtype-trilogy/main/screenshots/trilogy.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-rtype-trilogy/main/screenshots/animated/anim.gif" width="150"></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/boss.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/screenshots/rtype-0001.png" width="150"></td>
-</tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-rtype-trilogy/main/screenshots/bw/bwanim.gif" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/gameplay.png" width="150"></td></tr>
 </table>
 
-### [R-Type Neo — Chapter 2: Bydo Incursion](https://github.com/underscore42/ngpc-r-type-ch2-bydo-incursion)
-The next chapter in the **Pocket Trilogy** — more weapons.
+> Or if you prefer individual chapters <br>
+>     [R-Type Neo — Chapter 1: Star Rise](https://github.com/underscore42/ngpc-r-type-ch1-star-rise) <br>
+>     [R-Type Neo — Chapter 2: Bydo Incursion](https://github.com/underscore42/ngpc-r-type-ch2-bydo-incursion) <br>
+>     [R-Type Neo — Chapter 3: Star Fall](https://github.com/underscore42/ngpc-r-type-ch3-star-fall) <br>
+
+### [Last Resort Neo](https://github.com/underscore42/ngpc-last-resort) ⭐1
+Side-scrolling shooter: engage ground and air units. Multiple weapon types, pulse and rapid fire, orbiting battle pod just like the arcade.
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/title.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/gameplay.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-last-resort/main/screenshots/lastresort-0021.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-last-resort/main/screenshots/lastresort-0040.png" width="150"></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/gameplay2.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch2-bydo-incursion/main/screenshots/rtypech2-0001.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-last-resort/main/screenshots/lastresort-0029.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-last-resort/main/screenshots/lastresort-0000.png" width="150"></td>
 </tr>
 </table>
-
-### [R-Type Neo — Chapter 3: Star Fall](https://github.com/underscore42/ngpc-r-type-ch3-star-fall)
-The final chapter of the **Pocket Trilogy**.
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch3-star-fall/main/screenshots/title.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch3-star-fall/main/screenshots/gameplay.png" width="150"></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch3-star-fall/main/screenshots/gameplay2.png" width="150"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch3-star-fall/main/screenshots/rtypech3-0001.png" width="150"></td>
-</tr>
-</table>
-
 ---
 
 ## Puzzle
