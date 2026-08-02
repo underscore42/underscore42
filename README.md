@@ -184,7 +184,7 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/bwanim.gif" alt="R-Type Neo — Pocket Trilogy title screen" width="160">
 </p>
 
-**R-Type Neo: Pocket Trilogy — the complete saga.** All three chapters, plus an exclusive **Epilogue: Final Strike** playable only on the physical multicart.
+**Last Resort Neo** and **R-Type: Pocket Trilogy — the complete saga.** Which is all three chapters, plus the **Epilogue: Final Strike**. Both just dropped, I'll clean up the catalogue page next week, this way I can focus on the art for something that will be coming out in the next month... lots of physics in that one, which is done, just actual art and well, original IP and nothing like the ones I've been playing with. Clearing my brain for a bit.
 
 ---
 
