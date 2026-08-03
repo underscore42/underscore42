@@ -23,7 +23,11 @@ Built with the Toshiba TLCS-900H toolchain on the ameliandev NGPC framework, tes
 Studio site &amp; cart shop — *coming soon.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/cart_mockups_shiny.png" alt="Asteroids Neo carts" width="480">
+  <table>
+     <tr>
+       <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-hardware.png" alt="Asteroids Neo on silicon" width="240"></td>
+       <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-carts.png" alt="Asteroids Neo carts" width="240"></td></tr>
+  </table>
 </p>
 
 ---
