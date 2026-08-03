@@ -22,13 +22,15 @@ Built with the Toshiba TLCS-900H toolchain on the ameliandev NGPC framework, tes
 *Steven MacDonald · `underscore42` · Bucklands Beach, NZ (UTC+12)*
 Studio site &amp; cart shop — *coming soon.*
 
-<p align="center">
-  <table>
-     <tr>
-       <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-hardware.png" alt="Asteroids Neo on silicon" width="240"></td>
-       <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-carts.png" alt="Asteroids Neo carts" width="240"></td></tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-hardware.png" alt="Asteroids Neo on silicon" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-carts.png" alt="Asteroids Neo carts" width="240"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><b>Actual silicon, actual carts. Shockingly, it really works.</b> — Asteroids Neo running on real NGPC hardware.</sub></td>
+  </tr>
+</table>
 
 ---
 
