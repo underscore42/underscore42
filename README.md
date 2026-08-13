@@ -181,12 +181,30 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/bwanim.gif" alt="R-Type Neo — Pocket Trilogy title screen" width="160">
 </p>
 
-**Last Resort Neo** and **R-Type: Pocket Trilogy — the complete saga.** Which is all three chapters, plus the **Epilogue: Final Strike**. Both just dropped. <br><br>
-I can now focus on the art for something that will be coming out in the next couple of months... 
-**La Catrina** ... lots of physics in that one, which in theory works done, just actual art and well, original IP and nothing like the ones I've been playing with. Clearing my brain for a bit.
-<br><br>**Sidewinder** also in the pipe, also original IP. A classic but fun take on the shooters of the early 80s.
-<br><br>**Pengu** ... yeah... my take on that... plus any randoms.
 
+**Cross fingers but I might make my own late October target...**
+
+**La Catrina** ... pinball, physics are going well in that. So much respect for those designers of pinball playfields in the 70's, it's a challenge to keep the ball flowing. Going well, should make my October release and as physical cartridge.
+<br><br>**Sidewinder** also in the pipe, also original IP. A classic but fun take on the shooters of the early 80s. Honestly, just play testing... 128 levels... got make sure it's solid before the 50 cart order production.
+<br><br>**Pengu** ... yeah... my take on that classic, how to get the cracking ice sounds in place.
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/lacatrina-0020.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/lacatrina-0018.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/lacatrina-0019.png" width="80"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/sidewinder-0000.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/sidewinder-0005.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/sidewinder-0008.png" width="80"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0000.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0001.png" width="80"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0002.png" width="80"></td>
+</tr>
+
+</table>
 ---
 
 <sub>All titles are non-commercial fan homages, built as a what could have been.</sub>
