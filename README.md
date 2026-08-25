@@ -10,7 +10,7 @@
      the Trilogy project, NOT pushed yet — push, then fix the 2 URLs (they
      currently point at ngpc-r-type-ch1-star-rise/media/ as a placeholder).
      WHEN THE DOMAIN IS LIVE, enable:
-       🌐 [sonotkansai.com](https://www.sonotkansai.com) · ✉️ hello@sonotkansai.com
+       🌐 [sonotkansai.com](https://www.sonotkansai.com) · ✉️ steven@sonotkansai.com
 -->
 
 # Studio So Not Kansai — Neo Geo Pocket homebrew
@@ -20,7 +20,9 @@ Embedded engineer by day (kernel security, IoT → edge). Into the Neo Geo Pocke
 Built with the Toshiba TLCS-900H toolchain on the ameliandev NGPC framework, tested in Mednafen and on real hardware, flash-cart ready. If not obvious, I'm leveraging modern tools.
 
 *Steven MacDonald · `underscore42` · Bucklands Beach, NZ (UTC+12)*
-Studio site &amp; cart shop — *coming soon.*
+Studio site &amp; cart shop — *coming soon.* 
+
+✉️ steven@sonotkansai.com
 
 <table align="center">
   <tr>
