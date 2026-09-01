@@ -103,6 +103,24 @@ I couldn't get Brendan Fraser to cameo, sorry.
 </tr>
 </table>
 
+### [ペング / Pengu](https://github.com/underscore42/pengu)
+氷のブロックを押して、スノービーを潰す。南極の名作へのオマージュ。
+ゲーム内は全部カタカナ。四つのフィールド、倒し方は三通り —
+ブロックで潰す、タマゴのうちに砕く、壁に押しつけて凍らせて踏む。
+
+<sub>Push ice blocks, squash the Sno-Bees. Four fields, three ways to kill.
+Menus and HUD entirely in katakana — it seemed right.</sub>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu/main/screenshots/pengu-0000.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu/main/screenshots/pengu-0001.png" width="150"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu/main/screenshots/pengu-0002.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu/main/screenshots/pengu-0006.png" width="150"></td>
+</tr>
+</table>
+
 ---
 
 ## Shoot'em Ups
@@ -188,7 +206,6 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 
 **La Catrina** ... pinball, physics are going well in that. So much respect for those designers of pinball playfields in the 70's, it's a challenge to keep the ball flowing. Going well, should make my October release and as physical cartridge.
 <br><br>**Sidewinder** also in the pipe, also original IP. A classic but fun take on the shooters of the early 80s. Honestly, just play testing... 128 levels... got make sure it's solid before the 50 cart order production.
-<br><br>**Pengu** ... yeah... my take on that classic, how to get the cracking ice sounds in place.
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/lacatrina-0020.png" width="80"></td>
@@ -200,12 +217,6 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 <td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/sidewinder-0005.png" width="80"></td>
 <td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/sidewinder-0008.png" width="80"></td>
 </tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0000.png" width="80"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0001.png" width="80"></td>
-<td><img src="https://raw.githubusercontent.com/underscore42/underscore42/main/pengu-0002.png" width="80"></td>
-</tr>
-
 </table>
 ---
 
