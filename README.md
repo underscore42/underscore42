@@ -1,5 +1,17 @@
 <!-- Profile README for github.com/underscore42
      Repo named "underscore42", file README.md.
+     Title card: "So Not Kansai - Card.png" lives in the ROOT of this repo.
+       It's PORTRAIT. It sits in the intro table's right cell with NO width
+       attributes — the left cell is width="60%", so the card takes the
+       remaining 40% and GitHub's max-width:100% scales it to fit.
+       To resize it, change the LEFT cell percentage, not the image.
+       Card art is Steven's own Kiyomizu-dera photo — credited under it.
+       Filename has spaces — the raw URL must use %20. If you rename it to
+       so-not-kansai-card.png, update the <img src> below.
+       NOTE: cell contents are HTML, not Markdown — GitHub does not render
+       *italics* or `backticks` inside a <td>. Use <em>/<code>/<br>.
+       The real-hardware shots are a NESTED table inside the left cell,
+       dropped to 180px so left+card stays under the README render width.
      Per game: 4 shots at 150px in a 2x2 HTML TABLE.
        Tables force 2-per-row on mobile (inline <p> images collapse to a
        single column on narrow phones); fixed 150px keeps pixel art crisp.
@@ -13,25 +25,39 @@
        🌐 [sonotkansai.com](https://www.sonotkansai.com) · ✉️ steven@sonotkansai.com
 -->
 
-# Studio So Not Kansai — Neo Geo Pocket homebrew
+# So Not Kansai — Neo Geo Pocket homebrew
 
-Embedded engineer by day (kernel security, IoT → edge). Into the Neo Geo Pocket Color *way* too much by night.
+<table>
+<tr>
+<td valign="top" width="60%">
 
+Embedded engineer by day (kernel security, IoT → edge). Into the Neo Geo Pocket Color <em>way</em> too much by night.
+<br><br>
 Built with the Toshiba TLCS-900H toolchain on the ameliandev NGPC framework, tested in Mednafen and on real hardware, flash-cart ready. If not obvious, I'm leveraging modern tools.
-
-*Steven MacDonald · `underscore42` · Bucklands Beach, NZ (UTC+12)*
-Studio site &amp; cart shop — *coming soon.* 
-
+<br><br>
+<em>Steven MacDonald · <code>underscore42</code> · Bucklands Beach, NZ (UTC+12)</em>
+<br>
+Studio site &amp; cart shop — <em>coming soon.</em>
+<br>
 ✉️ steven@sonotkansai.com
 
-<table align="center">
+<table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-hardware.png" alt="Asteroids Neo on silicon" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-carts.png" alt="Asteroids Neo carts" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-hardware.png" alt="Asteroids Neo on silicon" width="180"></td>
+    <td><img src="https://raw.githubusercontent.com/underscore42/ngpc-asteroids-neo/main/media/asteroids-real-carts.png" alt="Asteroids Neo carts" width="180"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><sub><b>Actual silicon, actual carts. Shockingly, it really works.</b> — Asteroids Neo running on real NGPC hardware.</sub></td>
   </tr>
+</table>
+
+</td>
+<td valign="top" align="center">
+<img src="https://raw.githubusercontent.com/underscore42/underscore42/main/So%20Not%20Kansai%20-%20Card.png" alt="Studio So Not Kansai card — cherry tree at Kiyomizu-dera, Kyoto">
+<br>
+<sub><em>Kiyomizu-dera, Kyoto — my own photo transformed to ink sketch with paint dot net. Yes, I know that I took it in Kansai</em></sub>
+</td>
+</tr>
 </table>
 
 ---
