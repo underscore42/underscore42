@@ -116,6 +116,8 @@ I grew up in a pool hall, which didn't have a lot of games to choose from, I use
 </tr>
 </table>
 
+## Blockers
+
 ### [Tutankham](https://github.com/underscore42/ngpc-tutankham) ⭐2
 I couldn't get Brendan Fraser to cameo, sorry.
 <table>
@@ -147,6 +149,24 @@ Menus and HUD entirely in katakana — it seemed right.</sub>
 </tr>
 </table>
 
+### [ペング2 / Pengu 2: オキナワのゆめ](https://github.com/underscore42/pengu2)
+砂のブロックを押して、赤いカニを潰す。ヤシの葉かげにカニが隠れる。
+カニは海からやってくる。パイナップルを取ると葉が舞い上がる。
+
+<sub><b>Beta.</b> Not a reskin — palm trunks you can't move, and fronds on the
+second scroll plane drawn <em>over</em> the sprites, so crabs hide under the
+canopy. Every palm has its own canopy shape. Crabs come in from the sea, and
+a pineapple blows the leaves clear for a moment. Same penguin, wrong hemisphere.</sub>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu2-okinawa-yume/main/screenshots/pengu2-0000.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu2-okinawa-yume/main/screenshots/pengu2-0001.png" width="150"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu2-okinawa-yume/main/screenshots/pengu2-0004.png" width="150"></td>
+<td><img src="https://raw.githubusercontent.com/underscore42/pengu2-okinawa-yume/main/screenshots/pengu2-0005.png" width="150"></td>
+</tr>
+</table>
 ---
 
 ## Shoot'em Ups
@@ -222,7 +242,7 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 ---
 
 ## Coming Soon
-
+</table>
 <p align="center">
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/bwanim.gif" alt="R-Type Neo — Pocket Trilogy title screen" width="160">
 </p>
@@ -246,7 +266,8 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 </table>
 ---
 
-<sub>All titles are non-commercial fan homages, built as a what could have been.</sub>
+<sub>The homages are non-commercial fan works — free ROMs, no carts sold,
+built as a what-could-have-been. La Catrina and Sidewinder are original IP.</sub>
 
 <p align="center"><sub>🍔🍟🥤🧸 No tip jar — but if one gave you more fun than a Happy Meal would've, maybe send a bit where it might actually do some good:</sub></p>
 
