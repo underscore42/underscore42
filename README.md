@@ -249,9 +249,9 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
 
 > **Update, November 2026.** Sorry for the radio silence, and thanks for the check-ins. I’m all good. Had some troubles, but I’m back at it: everyone’s healthy again, we moved unexpectedly, and I had to rebuild a laptop.
 
-**Cross fingers but I might make my own late October target...**
+**Cross fingers but I might make my own late ~~October~~ New Year’s target...**
 
-**La Catrina** ... pinball, physics are going well in that. So much respect for those designers of pinball playfields in the 70's, it's a challenge to keep the ball flowing. Going well, should make my October release and as physical cartridge.
+**La Catrina** ... pinball, physics are going well in that. So much respect for those designers of pinball playfields in the 70's, it's a challenge to keep the ball flowing. Going well, should make my ~~October~~ New Year’s release and as physical cartridge.
 <br><br>**Sidewinder** also in the pipe, also original IP. A classic but fun take on the shooters of the early 80s. Honestly, just play testing... 128 levels... got make sure it's solid before the 50 cart order production.
 <table>
 <tr>
