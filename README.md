@@ -37,7 +37,7 @@ Built with the Toshiba TLCS-900H toolchain on the ameliandev NGPC framework, tes
 <br><br>
 <em>Steven MacDonald · <code>underscore42</code> · Bucklands Beach, NZ (UTC+12)</em>
 <br>
-Studio site &amp; cart shop — <em>coming soon.</em>
+📝 <a href="https://underscore42.github.io">Studio site &amp; blog</a> · cart shop — <em>coming soon.</em>
 <br>
 ✉️ steven@sonotkansai.com
 
