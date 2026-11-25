@@ -247,6 +247,7 @@ The text-adventure classic, parser and all, on a handheld. This was the second s
   <img src="https://raw.githubusercontent.com/underscore42/ngpc-r-type-ch1-star-rise/main/media/bwanim.gif" alt="R-Type Neo — Pocket Trilogy title screen" width="160">
 </p>
 
+> **Update, November 2026.** Sorry for the radio silence, and thanks for the check-ins. I’m all good. Had some troubles, but I’m back at it: everyone’s healthy again, we moved unexpectedly, and I had to rebuild a laptop.
 
 **Cross fingers but I might make my own late October target...**
 
